@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import Navbar from './components/Navbar';
 import Patient from './components/Patient';
-import HealthDetails from './components/HealthDetails';
+import HealthDetails from './components/healthDetails';
 import InterpolationChart from './components/chartComponent';
 import ProfileComponent from './components/profileComponent';
 import DiagnosticList from './components/DiagnoticList';
